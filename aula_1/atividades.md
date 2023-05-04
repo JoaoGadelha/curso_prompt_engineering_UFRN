@@ -8,9 +8,9 @@ Pense em situações em que você já interagiu com um assistente virtual ou um 
 
 Aqui estão alguns exemplos de prompts. Analise cada um e identifique os aspectos positivos e negativos.
 
-* Exemplo 1: ...
-* Exemplo 2: ...
-* Exemplo 3: ...
+* Exemplo 1: "Escreva um artigo sobre mudanças climáticas."
+* Exemplo 2: "Preciso de informações sobre o clima para amanhã em São Paulo."
+* Exemplo 3: "Que filmes você me recomenda para assistir neste fim de semana?"
 
 ## 3. Criação de prompts
 
@@ -28,4 +28,4 @@ Participe de uma discussão em grupo para compartilhar suas experiências com mo
 
 Leia o estudo de caso abaixo, que apresenta uma aplicação bem-sucedida da engenharia de instrução para melhorar a eficácia de um modelo de linguagem. Analise o estudo de caso e discuta como a engenharia de instrução contribuiu para o resultado.
 
-* Estudo de caso: ...
+* Estudo de caso: "Melhorando a interação entre humanos e chatbots de atendimento ao cliente: um estudo sobre a eficácia da engenharia de instrução"
