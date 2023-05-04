@@ -1,1 +1,0 @@
-# curso_prompt_engineering_UFRN
