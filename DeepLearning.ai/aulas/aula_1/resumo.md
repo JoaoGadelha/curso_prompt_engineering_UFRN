@@ -1,14 +1,18 @@
 # Engenharia de Prompts do ChatGPT para Desenvolvedores
 
 ## Tópicos do Curso
-
-1. Melhores práticas de prompts para desenvolvimento de software
-2. Casos de uso comuns:
+1. Resumo
+2. Melhores práticas de prompts para desenvolvimento de software
+3. Casos de uso comuns:
    - Resumir
    - Inferir
    - Transformar
    - Expandir
-3. Construção de um chatbot usando um Modelo de Linguagem de Grande Escala (LLM)
+4. Construção de um chatbot usando um Modelo de Linguagem de Grande Escala (LLM)
+
+## Resumo
+
+Este video apresenta um curso sobre engenharia de prompts do ChatGPT para desenvolvedores, com a participação de Isa Fulford, da OpenAI. O curso aborda melhores práticas de prompts para desenvolvimento de software e casos de uso comuns, como resumir, inferir, transformar e expandir. Os alunos também aprenderão a construir um chatbot usando um Modelo de Linguagem de Grande Escala (LLM). O curso enfoca LLMs sintonizados por instrução, que são treinados para seguir instruções e são recomendados para a maioria das aplicações. A equipe da OpenAI e DeepLearning.ai contribuiu para o material do curso. Por fim, o texto destaca a importância de fornecer instruções claras e específicas ao usar LLMs.
 
 ## Foco do Curso
 
