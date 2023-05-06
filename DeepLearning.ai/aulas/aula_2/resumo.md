@@ -2,7 +2,7 @@
 
 ## Resumo
 
-O texto discute como escrever instruções claras e específicas para um modelo de linguagem, utilizando delimitadores e formatos estruturados. Ele também aborda a importância de dar tempo ao modelo para pensar e resolver problemas complexos, bem como a necessidade de estar ciente das limitações do modelo, como a possibilidade de gerar informações incorretas ou fabricadas.
+O texto discute como escrever instruções claras e específicas para um modelo de linguagem, utilizando delimitadores e formatos estruturados. Ele também aborda a importância de dar tempo ao modelo para pensar e resolver problemas complexos, bem como a necessidade de estar ciente das limitações do modelo, como a possibilidade de gerar informações incorretas ou fabricadas. Além disso, menciona a técnica de evitar prompt injections.
 
 ## Tópicos Principais
 
@@ -12,6 +12,7 @@ O texto discute como escrever instruções claras e específicas para um modelo 
 - Peça uma saída estruturada, como HTML ou JSON.
 - Peça ao modelo para verificar se as condições estão satisfeitas.
 - Utilize exemplos de execuções bem-sucedidas (few-shot prompting).
+- Use delimitadores para evitar prompt injections.
 
 ### 2. Dar tempo ao modelo para pensar
 
